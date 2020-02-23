@@ -56,7 +56,8 @@ const colors = {
   teal100: "#E8F7F7",
 
   // new
-  black: "#000000",
+  white: "#ffffff",
+  black1: "#121212",
   green1: "#3e432e",
   green2: "#616f39",
   green3: "#a7d129",
